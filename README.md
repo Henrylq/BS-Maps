@@ -1,6 +1,8 @@
 # Brawl Stars Maps
-These are all maps extracted from the game sorted into folders.
+All maps were extracted from the game files.
 
-Last version: 22.99
+Game version: 22.99
 
-All maps are on [www.starlist.pro/maps](https://www.starlist.pro/maps/).
+These maps are hosted on [www.starlist.pro/maps](https://www.starlist.pro/maps/)
+
+Generated with [BrawlMapGen](https://github.com/thedonciuxx/BrawlMapGen/tree/net-core-version)
