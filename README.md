@@ -1,3 +1,7 @@
+**Archived as this is available and up-to-date on https://github.com/Brawlify/CDN**
+
+
+
 # Brawl Stars Maps
 All maps were extracted and built or redrawn from game files from [Brawl Stars](https://supercell.com/en/games/brawlstars/).
 
